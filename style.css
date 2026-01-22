@@ -6,13 +6,15 @@
     
 }
 body{
-    width: 100%;
-    height: 100vh;
-     justify-content: center;
-    align-items: center;
-    text-align: center;
-    background-size: cover;
-    background-color: aqua;
+   body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #141E30, #243B55);
+  font-family: Arial, sans-serif;
+}
+
 }
 /* .Calculator{
     padding: 20px;
